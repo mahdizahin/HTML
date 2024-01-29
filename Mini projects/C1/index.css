@@ -1,0 +1,13 @@
+#box{
+    background-color: #fff;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+form{
+    margin: 10%;
+    padding: 10px;
+}
+label{
+    color: orangered;
+}
