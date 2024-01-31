@@ -1,0 +1,14 @@
+table{
+    text-align: center;
+    
+    padding: 20px;
+}
+th,td{
+    border: 1px solid rgb(44, 235, 235);
+}
+h2{
+    text-align: center;
+    background-color: lightblue;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
