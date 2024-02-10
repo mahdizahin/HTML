@@ -1,0 +1,80 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .post {
+            border: 1px solid #ccc;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .post img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        .post p {
+            margin-bottom: 15px;
+        }
+
+        .post-footer {
+            color: #888;
+            font-size: 14px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .post-footer button {
+            padding: 5px 10px;
+            margin-right: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .like-btn {
+            background-color: #3b5998;
+            color: #fff;
+        }
+
+        .comment-btn {
+            background-color: #dfe3ee;
+        }
+
+        .share-btn {
+            background-color: #4caf50;
+            color: #fff;
+        }
+
+        .reaction-btn {
+            padding: 5px 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .like-btn {
+            background-color: #3b5998;
+            color: #fff;
+        }
+
+        .love-btn {
+            background-color: #e44d80;
+            color: #fff;
+        }
+
+        .angry-btn {
+            background-color: #d9534f;
+            color: #fff;
+        }
+
+        .haha-btn {
+            background-color: #ffec86;
+        }
